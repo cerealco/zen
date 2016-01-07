@@ -1,4 +1,10 @@
 {
   "name": "Zen",
-  "version": "0.0.1"
+  "description": "A pure Ghost theme",
+  "authors": [
+    "cerealco <contact@cereal.co>"
+  ], 
+  "version": "0.0.1",
+  "license": "MIT",
+  "homepage": "https://github.com/cerealco/zen"
 }
